@@ -70,3 +70,4 @@ UI clone project focused on layout, responsiveness, and CSS styling.
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/sumayyatabasum
+- Linkedin: https://www.linkedin.com/in/shaik-sumayya-68a9582a4/
