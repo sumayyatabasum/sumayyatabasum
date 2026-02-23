@@ -1,73 +1,90 @@
 ## Hi, I'm Sumayya 👋
 
-🎓 Computer Science & Engineering undergraduate (Big Data Analytics)  
-💻 Aspiring Software Engineer with strong interest in web development  
-🌱 Actively learning backend technologies, WordPress basics, and open-source contribution  
+🎓 Final-Year Computer Science & Engineering Student (Big Data Analytics)  
+💻 Full-Stack Developer | React • Next.js • Node.js • SQL  
+🌍 Interested in building scalable, database-driven web applications  
 
 ---
 
 ## 🧠 About Me
 
-I am a CS student building strong fundamentals in programming, databases, and web technologies.  
-I enjoy learning by building projects, reading documentation, and improving my code step by step.
+I am a final-year Computer Science student focused on developing strong foundations in software engineering, backend systems, and database-driven applications.
+
+I learn by building complete, deployable projects — from frontend interfaces to backend APIs and database integration — while maintaining clean architecture and version control practices.
 
 Currently, I am:
-- Strengthening JavaScript, tailwind and backend concepts
-- Learning PHP and WordPress fundamentals
-- Exploring how open-source projects are structured and maintained
+- Building full-stack applications using React, Next.js, and Node.js
+- Strengthening backend architecture and REST API design
+- Working with SQL databases and authentication systems
+- Improving code quality, documentation, and deployment workflows
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages & Web**
-- HTML, CSS, JavaScript  
-- PHP (beginner, learning fundamentals)
-- python
+### Languages
+- JavaScript (ES6+)
+- TypeScript (basic)
+- Python
+- SQL
 
-**Backend & Database**
-- Node.js, Express.js  
-- MySQL  
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+- HTML5, CSS3
 
-**Tools & Basics**
-- Git & GitHub  
-- Computer Science fundamentals  
-- DBMS & basic OOP concepts  
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- Authentication (JWT / Supabase Auth)
+
+### Databases
+- MySQL
+- PostgreSQL (via Supabase)
+- MongoDB (basic)
+
+### Tools
+- Git & GitHub
+- Vercel Deployment
+- API Integration
+- Environment Configuration
 
 ---
 
-## 📌 Projects
+## 📌 Key Projects
 
-🔹 **Tierra_Analytix**  
-Web-based project focusing on frontend structure and application logic.
+🔹 **Notes – Full-Stack AI-Enhanced Notes Application**  
+Deployed full-stack application using Next.js, Supabase (PostgreSQL + Auth), and AI integration for intelligent note processing. Includes authenticated CRUD operations and cloud deployment.
 
-🔹 **sql_editpage**  
-CRUD application demonstrating MySQL integration and backend workflow.
+🔹 **SQL Edit Page**  
+Backend-focused CRUD system using Node.js, Express, and MySQL demonstrating structured database workflows and REST architecture.
 
 🔹 **Spotify Creators Clone**  
-UI clone project focused on layout, responsiveness, and CSS styling.
-
-(More improvements and documentation in progress)
+Responsive frontend project built with Next.js and Tailwind CSS emphasizing layout systems and UI precision.
 
 ---
 
 ## 🌍 What I’m Working On Now
 
-- Writing cleaner, well-documented code  
-- Understanding WordPress plugin & theme architecture  
-- Preparing for open-source contributions through small, meaningful changes  
+- Strengthening backend architecture patterns  
+- Improving database schema design  
+- Writing cleaner, production-ready code  
+- Preparing for international internship opportunities  
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Goals
 
-- Become a strong backend / WordPress engineer  
-- Contribute to open-source projects  
-- Build scalable and maintainable web applications  
+- Build scalable full-stack systems  
+- Contribute to technically challenging environments  
+- Grow as a backend-focused software engineer  
+- Work in collaborative, international teams  
 
 ---
 
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/sumayyatabasum
-- Linkedin: https://www.linkedin.com/in/shaik-sumayya-68a9582a4/
+- LinkedIn: https://www.linkedin.com/in/shaik-sumayya-68a9582a4/
