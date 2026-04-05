@@ -71,7 +71,6 @@ Responsive frontend project built with Next.js and Tailwind CSS emphasizing layo
 - Strengthening backend architecture patterns  
 - Improving database schema design  
 - Writing cleaner, production-ready code  
-- Preparing for international internship opportunities  
 
 ---
 
