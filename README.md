@@ -1,59 +1,68 @@
 # Hi, I'm Sumayya 👋
 
 🎓 B.Tech Graduate in Computer Science (Big Data Analytics)
-📊 Aspiring Data Analyst | SQL • Python • Excel • Power BI • PostgreSQL
-📈 Passionate about transforming data into actionable insights through analytics, dashboards, and data-driven applications.
+
+📊 Aspiring Data Analyst | SQL • Python • Excel • Power BI • Tableau
+
+📈 Passionate about transforming raw data into actionable insights through data cleaning, exploratory data analysis, visualization, and business intelligence.
 
 ---
 
 ## 🧠 About Me
 
-I'm a Computer Science graduate specializing in Big Data Analytics with a strong interest in solving real-world problems through data.
+I'm a Computer Science graduate specializing in Big Data Analytics with a passion for extracting insights from data to support business decisions.
 
-I enjoy working with SQL, Python, PostgreSQL, Excel, and Power BI to clean, analyze, visualize, and communicate meaningful insights. Alongside analytics, I build data-driven applications that combine intuitive dashboards with reliable backend systems.
+My work focuses on data cleaning, SQL querying, exploratory data analysis (EDA), dashboard development, and data visualization using Python, Excel, Power BI, and Tableau. I enjoy transforming raw datasets into clear, actionable insights through analytical thinking and storytelling.
 
-Currently I'm focused on:
+---
 
-- 📊 Building analytics dashboards
-- 🗄️ Strengthening SQL & PostgreSQL
-- 🐍 Improving Python for data analysis
-- 📈 Creating business-focused analytical projects
+### Currently focusing on
+
+- 📊 Building end-to-end data analytics projects
+- 🐍 Data analysis with Python (Pandas, NumPy)
+- 🗄️ Advanced SQL & PostgreSQL
+- 📈 Interactive dashboards with Power BI & Tableau
 - 📚 Preparing for Data Analyst opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
 ### 📊 Data Analytics
-
 - SQL
 - PostgreSQL
 - MySQL
 - Python
 - Microsoft Excel
 - Power BI
-- Data Visualization
+- Tableau
+
+### 📈 Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- IBM Db2
 
 ### 💻 Programming
-
 - JavaScript
-- TypeScript
 
-### 🌐 Development
-
+### 🌐 Web Technologies
 - React
-- Next.js
 - Node.js
 - Express.js
 - REST APIs
 
-### ⚙ Tools
-
+### ⚙️ Tools
 - Git
 - GitHub
-- Vercel
-- Supabase
-- Railway
+- Jupyter Notebook
+- VS Code
+  
 ---
 
 ## 📌 Featured Projects
@@ -101,7 +110,7 @@ AI-powered note management platform integrating PostgreSQL, Supabase, and Google
 
 ## 🎯 Career Goal
 
-To build a career in Data Analytics by transforming complex datasets into clear insights that support business decisions through analytical thinking, visualization, and problem-solving.
+To build a career as a Data Analyst by leveraging SQL, Python, Excel, Power BI, and Tableau to analyze data, uncover business insights, and support data-driven decision-making.
 
 ---
 
