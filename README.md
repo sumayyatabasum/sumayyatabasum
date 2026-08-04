@@ -10,11 +10,11 @@ I'm a B.Tech Computer Science graduate specializing in **Big Data Analytics**, f
 I enjoy the full path from a messy dataset to a clear recommendation: profiling and cleaning the data, writing the SQL that answers the actual business question, and building a dashboard that lets someone else see it too.
 
 **Currently focused on:**
-- 📊 Building end-to-end data analytics projects, start to finish
-- 🐍 Data analysis with Python (Pandas, NumPy)
-- 🗄️ Advanced SQL — window functions, CTEs, and query optimization in PostgreSQL
-- 📈 Interactive dashboards in Power BI and Tableau
-- 📚 Preparing for Data Analyst roles
+-  Building end-to-end data analytics projects, start to finish
+-  Data analysis with Python (Pandas, NumPy)
+-  Advanced SQL — window functions, CTEs, and query optimization in PostgreSQL
+-  Interactive dashboards in Power BI and Tableau
+-  Preparing for Data Analyst roles
 
 ---
 
@@ -60,15 +60,15 @@ I enjoy the full path from a messy dataset to a clear recommendation: profiling 
 
 ### 📌 Featured Data Analytics Projects
 
-#### 📈 [E-Commerce Customer Churn Analysis](https://github.com/sumayyatabasum/Ecommerce_Customer_Churn_Analysis)
+#### [E-Commerce Customer Churn Analysis](https://github.com/sumayyatabasum/Ecommerce_Customer_Churn_Analysis)
 Cleaned and standardized a 5,630-record customer dataset in MySQL and answered 17 business questions using 25+ SQL queries — joins, CTEs, and window functions. Built an interactive Power BI dashboard with KPI cards and DAX measures that surfaced a **16.84% churn rate** and translated it into retention recommendations.
 `SQL` `MySQL` `Power BI` `DAX` `Business Analytics`
 
-#### 🏦 [Banking Data Analytics](https://github.com/sumayyatabasum/banking_data_analytics)
+#### [Banking Data Analytics](https://github.com/sumayyatabasum/banking_data_analytics)
 Designed a normalized PostgreSQL database across customers, accounts, and transactions (200 customers, 291 accounts, 1,000 transactions), then used SQL and Python to segment customers by transaction behavior, demographics, and regional performance. Built a Power BI dashboard with slicers to surface top customers, dormant accounts, and spending trends.
 `SQL` `PostgreSQL` `Python` `Power BI` `Customer Segmentation`
 
-#### 🧹 [FIFA 21 Player Data Cleaning & EDA](https://github.com/sumayyatabasum/FIFA-21-Player-Data-Cleaning-and-EDA)
+#### [FIFA 21 Player Data Cleaning & EDA](https://github.com/sumayyatabasum/FIFA-21-Player-Data-Cleaning-and-EDA)
 Cleaned and transformed an 18,979-record football dataset, handling missing values, duplicates, and inconsistent formats. Ran exploratory data analysis with 12+ visualizations to uncover player valuation trends, wage distribution, and performance insights.
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
@@ -78,17 +78,17 @@ Cleaned and transformed an 18,979-record football dataset, handling missing valu
 
 | Project | Description | Stack |
 |---|---|---|
-| 📊 [TaskFlow](https://github.com/sumayyatabasum/Taskflow) | Full-stack analytics platform tracking study progress, consistency, and streaks via a PostgreSQL-backed dashboard | `PostgreSQL` `SQL` `Next.js` `Express` |
-| 💰 [FinDash](https://github.com/sumayyatabasum/FinDash) | Interactive financial analytics dashboard with KPI cards, trend analysis, and category breakdowns | `React` `TypeScript` `Recharts` |
-| 🗄️ [SQL CRUD Management System](https://github.com/sumayyatabasum/sql_crud_mangement_system) | Backend CRUD app demonstrating relational database design and secure data management | `SQL` |
-| 🧠 [Second Brain](https://github.com/sumayyatabasum/second_brain_ai) | AI-powered note management platform integrating a database backend with an LLM API | `PostgreSQL` `Supabase` `Google Gemini API` |
+| [TaskFlow](https://github.com/sumayyatabasum/Taskflow) | Full-stack analytics platform tracking study progress, consistency, and streaks via a PostgreSQL-backed dashboard | `PostgreSQL` `SQL` `Next.js` `Express` |
+| [FinDash](https://github.com/sumayyatabasum/FinDash) | Interactive financial analytics dashboard with KPI cards, trend analysis, and category breakdowns | `React` `TypeScript` `Recharts` |
+| [SQL CRUD Management System](https://github.com/sumayyatabasum/sql_crud_mangement_system) | Backend CRUD app demonstrating relational database design and secure data management | `SQL` |
+| [Second Brain](https://github.com/sumayyatabasum/second_brain_ai) | AI-powered note management platform integrating a database backend with an LLM API | `PostgreSQL` `Supabase` `Google Gemini API` |
 
 
 ---
 
 ### 🔜 Up Next
-- 📊 **Sales Performance Dashboard** *(in progress)* — interactive Power BI dashboard for KPIs, sales trends, and regional performance
-- 📚 Advanced SQL, statistical analysis, and Google Sheets for business reporting
+-  **Sales Performance Dashboard** *(in progress)* — interactive Power BI dashboard for KPIs, sales trends, and regional performance
+-  Advanced SQL, statistical analysis, and Google Sheets for business reporting
 
 ---
 
